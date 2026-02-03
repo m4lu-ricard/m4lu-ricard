@@ -1,3 +1,5 @@
+🇧🇷 Leia em português: [README-PT.md](README-PT.md)
+
 # Hi 👋, I'm Maria Ricardo
 
 💻 **Software Engineering Student**  
