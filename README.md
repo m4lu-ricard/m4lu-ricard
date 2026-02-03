@@ -1,4 +1,4 @@
-🇧🇷 Leia em português: [README-PT.md](README-PT.md)
+🇧🇷 Leia em português: [README-PT.md](https://github.com/m4lu-ricard/README-PT.md)
 
 # Hi 👋, I'm Maria Ricardo
 
