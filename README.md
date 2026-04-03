@@ -63,9 +63,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4lu-ricard&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats-ten-nu-59.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats&hide=javascript&cache_seconds=0&v=99"/>
 </p>
 
 ---
