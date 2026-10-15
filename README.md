@@ -71,9 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=m4lu-ricard&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=8&theme=radical&v=1" height="150" alt="Linguagens Mais Usadas" />
 </p>
-<p>
-  <img src="https://github-readme-stats-ten-nu-59.vercel.app/api/top-langs/?username=m4lu-ricard&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats&hide=javascript&cache_seconds=0&v=99"/>
-</p>
 
 ---
 
