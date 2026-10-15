@@ -26,13 +26,13 @@
 
 ## 🧠 What I do
 
-- 💻 Software Engineering student  
-- 📚 Learning and practicing C, Java and MySQL  
+- 🎓 Software Engineering student at Universidade Católica de Brasília (UCB)  
+- 📚 Learning and practicing Javascript, HTML, CSS and MySQL
+- 💻 Focused on **Web Development** (JavaScript, Node.js, HTML/CSS) and building full-stack applications
 - 🛠️ Building small projects to improve my programming skills  
-- 🗄️ Studying databases and basic backend concepts  
-- 📊 Experience with spreadsheets and data organization  
-- 🎯 Interested in technology, problem solving and continuous learning  
-
+- 📊 Studying **Data Analysis and Engineering**, expanding my knowledge in databases and data structuring   
+- 🎯 Passionate about technology, continuous learning, and creating efficient solutions
+  
 ---
 
 
