@@ -1,6 +1,6 @@
 🇧🇷 Leia em português: [README-PT.md](https://github.com/m4lu-ricard/README-PT.md)
 
-# Hi 👋, I'm Maria Ricardo
+# Hi 👋, I'm Maria Luiza Ricardo
 
 💻 **Software Engineering Student**  
 📍 Brazil 🇧🇷  
